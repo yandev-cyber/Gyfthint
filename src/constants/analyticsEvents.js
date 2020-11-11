@@ -1,0 +1,16 @@
+export default {
+  APP_OPEN: 'app_open',
+  HINT_ADDED: 'hint_added',
+  HINT_DELETED: 'hint_deleted',
+  HINT_DETAIL: 'hint_detail',
+  LOGIN: 'login',
+  SIGNUP: 'sign_up',
+  ABANDONED: 'abandoned_add_hint_flow',
+  SKIP: 'clicked_skip_in_snap_flow',
+  INVITE_TAPPED: 'invite_tapped',
+  INVITE_SUCCESS: 'invite_successfullyY',
+  PURCHASED: 'ecommerce_purchase',
+  NETWORK_REQUEST: 'network_requests',
+  REQUESTS_ACCEPTS: 'requests_accept',
+  USER_DETAILS: 'tapped_another_user_profile',
+};

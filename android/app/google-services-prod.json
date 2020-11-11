@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "209084065060",
+    "firebase_url": "https://gyfthint-production.firebaseio.com",
+    "project_id": "gyfthint-production",
+    "storage_bucket": "gyfthint-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209084065060:android:62f1f1a5bc838f3b",
+        "android_client_info": {
+          "package_name": "com.gyfthint.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209084065060-8bd1gic0i8rr1ifbicm01s94kait4gku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gyfthint.app",
+            "certificate_hash": "8cd29e4491e9e4de9a60738309e58022646c0b78"
+          }
+        },
+        {
+          "client_id": "209084065060-qriniq6ais519nbm94eenorpkj2un0je.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gyfthint.app",
+            "certificate_hash": "07dacf710841e30294bbdc20d4350a222de4f0c4"
+          }
+        },
+        {
+          "client_id": "209084065060-6379q3o9llsr3tja5nanf4i0l23k1ua8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT_R63wtfOqzpgio71ZcNJYu1yeVjoslw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209084065060-6379q3o9llsr3tja5nanf4i0l23k1ua8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209084065060-l3ru7jo9fubsiemdb3e98rgjg243fkbc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gyfthint.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

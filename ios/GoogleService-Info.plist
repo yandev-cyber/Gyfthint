@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>209084065060-l3ru7jo9fubsiemdb3e98rgjg243fkbc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.209084065060-l3ru7jo9fubsiemdb3e98rgjg243fkbc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>209084065060-kc9ea87td5ij9nqvjbqnr3fdl09vrnmn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6MStKqr8hQbNnauXT3Hpahal11emsqH0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>209084065060</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gyfthint.app</string>
+	<key>PROJECT_ID</key>
+	<string>gyfthint-production</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gyfthint-production.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:209084065060:ios:62f1f1a5bc838f3b</string>
+	<key>DATABASE_URL</key>
+	<string>https://gyfthint-production.firebaseio.com</string>
+</dict>
+</plist>
